@@ -27,6 +27,11 @@ This web application, built with Flask, is designed to streamline the resume sho
 - **HTML/CSS:** For designing the user interface.
 - **Bootstrap:** For responsive front-end design.
 
+## Architecture
+
+  ![image](https://github.com/user-attachments/assets/6563e9a1-6d23-407c-8c1d-fd2990f81b21)
+
+
 ## Database Schema
 
 ### Tables
@@ -95,6 +100,11 @@ Open your web browser and go to:
 ``` cpp
 http://127.0.0.1:5000
 ```
+
+###  Watch Video
+
+[![Watch the video](https://img.youtube.com/vi/ayM1CJU9X-Q/0.jpg)](https://youtu.be/ayM1CJU9X-Q)
+
 
 ## File Structure
 
