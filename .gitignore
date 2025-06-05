@@ -12,3 +12,5 @@ __pycache__/
 *.so
 .cache/
 logs/
+uploads/*
+!uploads/.keep
