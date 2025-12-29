@@ -78,7 +78,7 @@ CREATE TABLE applications (
 ### Clone the Repository:
 
 ``` bash
-git clone https://github.com/igargikaushik/autoHire_AI.git
+git clone https://github.com/Sarita-021/autoHire_AI.git
 cd autoHire_AI
 ```
 
